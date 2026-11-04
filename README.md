@@ -1,26 +1,27 @@
 <div align="center">
 
-# 🎯 SMART SEMINARS
+# 🎯 SMART SEMINARS™
 
 ### Turnkey Retirement Seminar & Webinar Marketing for Financial Advisors & RIAs
 
 <br />
 
 [![Official Site](https://img.shields.io/badge/🌐_Official_Platform-smartseminars.io-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://smartseminars.io/)
-[![Book Strategy Call](https://img.shields.io/badge/📞_Book_Strategy_Call-Free_Consultation-00875A?style=for-the-badge&logo=calendly&logoColor=white)](https://smartseminars.io/contact)
-[![Support Email](https://img.shields.io/badge/✉️_Email_Support-support%40smartseminars.io-FFAB00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:support@smartseminars.io)
+[![Direct Contact](https://img.shields.io/badge/📞_Contact_Us-smartseminars.io%2Fcontact-00875A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://smartseminars.io/contact)
+[![Direct Email](https://img.shields.io/badge/✉️_Email-rey%40smartseminars.io-FFAB00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:rey@smartseminars.io)
 
 ---
 
 </div>
 
-## 📌 Quick Access Portal & Target Services
+## 📌 Quick Access Portal & Regional Target Pages
 
 | Service Category | Dedicated Direct Resources |
 | :--- | :--- |
-| **🎯 Core Services** | 📈 [Seminar Marketing](https://smartseminars.io/) • 💻 [Virtual Webinars](https://smartseminars.io/) • 📋 [Lead Generation](https://smartseminars.io/) |
-| **🛡️ Guarantees & Pricing** | 💎 [90% Asset-Screened Threshold](https://smartseminars.io/) • 💳 [Transparent Pricing ($125/household)](https://smartseminars.io/) |
-| **🛠️ Tools & Resources** | 📄 [Landing Page Frameworks](https://smartseminars.io/) • 🤝 [CRM Sync & Integrations](https://smartseminars.io/) |
+| **🌐 Regional Services** | 🇺🇸 [USA Seminar Marketing](https://smartseminars.io/contact) • 🇨🇦 [Canada Seminar Marketing](https://smartseminars.io/contact) |
+| **🎯 Core Solutions** | 📈 [In-Person Seminars](https://smartseminars.io/) • 💻 [Virtual Webinars](https://smartseminars.io/) • 📋 [Lead Generation](https://smartseminars.io/) |
+| **🛡️ Pricing & Contact** | 💳 [Pricing & Policies ($125/household)](https://smartseminars.io/#pricing) • 📩 [Get In Touch / Contact](https://smartseminars.io/contact) |
+| **📜 Operational Policies** | 🔒 [Privacy Policy](https://smartseminars.io/privacy) • ⚖️ [Terms of Service](https://smartseminars.io/terms) |
 
 ---
 
@@ -33,12 +34,12 @@
 ## ⚡ Core Capability Suites & Service Details
 
 <details open>
-<summary><b>📈 1. Retirement Seminar & Webinar Acquisition</b></summary>
+<summary><b>📈 1. Regional Seminar Marketing (USA & Canada)</b></summary>
 <br />
 
-* **Turnkey Campaign Management:** End-to-end management of ad campaigns, high-converting landing pages, and RSVP funnels.
-* **Asset Threshold Guarantee:** Pre-screened attendees meeting strict investable asset criteria ($250K to $1M+).
-* 🔗 <b><a href="https://smartseminars.io/">Explore Core Services →</a></b>
+* **Turnkey Campaign Management:** End-to-end management of targeted ad campaigns, high-converting landing pages, and RSVP funnels across US & Canadian markets.
+* **90% Asset Threshold Guarantee:** Pre-screened attendees meeting strict investable asset criteria ($250K to $1M+).
+* 🔗 <b><a href="https://smartseminars.io/contact">Explore Regional Campaigns →</a></b>
 
 </details>
 
@@ -63,36 +64,38 @@
 
 ---
 
-## 👨‍💼 Author, Leadership & Enterprise Details
+## 👨‍💼 Leadership & Company Credentials
 
-* **Founding & Leadership Expertise:** Built by veteran digital marketing and financial services growth strategists specializing in RIA client acquisition.
+* **Leadership:** Founded & operated by **Reynaldo Enriquez** (Advanced Global Research).
+* **Parent Organization:** Smart Seminars™ is a specialized service of **Advanced Global Research (AGR)**.
 * **Operational Track Record:** Over **570+ successful campaigns** executed across North America since 2018 with zero long-term lock-in contracts.
 
 ---
 
-## 📞 Official Contact & Support Details
+## 📞 Official Contact & Office Information
 
-* **Website:** [smartseminars.io](https://smartseminars.io/)
-* **Direct Consultation & Strategy Booking:** [smartseminars.io/contact](https://smartseminars.io/)
-* **Support & Inquiry Email:** `support@smartseminars.io`
-* **Headquarters / Operations:** Dallas, Texas, USA / Remote Operations
+* **Official Website:** [smartseminars.io](https://smartseminars.io/)
+* **Direct Contact Page:** [smartseminars.io/contact](https://smartseminars.io/contact)
+* **Direct Email:** `rey@smartseminars.io` | `support@smartseminars.io`
+* **Direct Phone:** `+1 (347) 295-6438`
+* **Dallas Headquarters:** `5301 Alpha Rd #80, Dallas, TX 75240, United States`
 
 ---
 
-## ⚡ Infrastructure & Technology Stack
+## ⚡ Technical Infrastructure & Performance Stack
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Automation-Python_3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/API-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![CRM Sync](https://img.shields.io/badge/CRM-HubSpot_%7C_Salesforce-FF9900?style=for-the-badge&logo=hubspot&logoColor=white)
-![Secure Hosting](https://img.shields.io/badge/Infrastructure-AWS_%7C_Cloudflare-F90000?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloud Infrastructure](https://img.shields.io/badge/Infrastructure-AWS_%7C_Cloudflare-F90000?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
 ### 🎯 Ready to Scale Your Practice With Pre-Screened Clients?
 
-<a href="https://smartseminars.io/contact"><img src="https://img.shields.io/badge/📞_Book_Your_Strategy_Call-00875A?style=for-the-badge&logo=calendly&logoColor=white" alt="Strategy Call" /></a>
+<a href="https://smartseminars.io/contact"><img src="https://img.shields.io/badge/📞_Contact_Us_Today-00875A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Contact Us" /></a>
 <a href="https://smartseminars.io/"><img src="https://img.shields.io/badge/🌐_Visit_Official_Site-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Site" /></a>
 
 <br /><br />
@@ -101,6 +104,6 @@
   <img src="https://komarev.com/ghpvc/?username=smartseminars0&style=flat-square&color=blue" alt="Repository Traffic Counter" />
 </p>
 
-*© Smart Seminars™. All rights reserved. Seminar Marketing Built for Financial Advisors.*
+*© Smart Seminars™. A service of Advanced Global Research. All rights reserved.*
 
 </div>
