@@ -14,7 +14,7 @@
 
 </div>
 
-## 📌 Quick Access Portal & Exact Regional Service Pages
+## 🌐 Quick Access Portal & Exact Regional Service Pages
 
 | Portal Category | Dedicated Direct Resource URLs |
 | :--- | :--- |
