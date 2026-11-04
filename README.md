@@ -7,21 +7,22 @@
 <br />
 
 [![Official Site](https://img.shields.io/badge/🌐_Official_Platform-smartseminars.io-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://smartseminars.io/)
-[![Direct Contact](https://img.shields.io/badge/📞_Contact_Us-smartseminars.io%2Fcontact-00875A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://smartseminars.io/contact)
-[![Direct Email](https://img.shields.io/badge/✉️_Email-rey%40smartseminars.io-FFAB00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:rey@smartseminars.io)
+[![USA Service Page](https://img.shields.io/badge/🇺🇸_USA_Services-Retirement_Seminars-00875A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://smartseminars.io/retirement-seminar-marketing-financial-advisors-usa)
+[![Canada Service Page](https://img.shields.io/badge/🇨🇦_Canada_Services-Lead_Generation-FFAB00?style=for-the-badge&logo=googlechrome&logoColor=black)](https://smartseminars.io/financial-advisor-marketing-lead-generation-canada)
 
 ---
 
 </div>
 
-## 📌 Quick Access Portal & Regional Target Pages
+## 📌 Quick Access Portal & Exact Regional Service Pages
 
-| Service Category | Dedicated Direct Resources |
+| Portal Category | Dedicated Direct Resource URLs |
 | :--- | :--- |
-| **🌐 Regional Services** | 🇺🇸 [USA Seminar Marketing](https://smartseminars.io/contact) • 🇨🇦 [Canada Seminar Marketing](https://smartseminars.io/contact) |
-| **🎯 Core Solutions** | 📈 [In-Person Seminars](https://smartseminars.io/) • 💻 [Virtual Webinars](https://smartseminars.io/) • 📋 [Lead Generation](https://smartseminars.io/) |
-| **🛡️ Pricing & Contact** | 💳 [Pricing & Policies ($125/household)](https://smartseminars.io/#pricing) • 📩 [Get In Touch / Contact](https://smartseminars.io/contact) |
-| **📜 Operational Policies** | 🔒 [Privacy Policy](https://smartseminars.io/privacy) • ⚖️ [Terms of Service](https://smartseminars.io/terms) |
+| **🇺🇸 USA Advisory Services** | 🚀 [USA Retirement Seminar Marketing](https://smartseminars.io/retirement-seminar-marketing-financial-advisors-usa) |
+| **🇨🇦 Canada Advisory Services** | 🚀 [Canada Financial Advisor Lead Generation](https://smartseminars.io/financial-advisor-marketing-lead-generation-canada) |
+| **🎯 Core Offerings** | 📈 [In-Person Seminars](https://smartseminars.io/) • 💻 [Virtual Webinars](https://smartseminars.io/) • 📋 [Lead Generation](https://smartseminars.io/) |
+| **💳 Transparent Pricing** | 💲 [Pricing ($125 USD / Household - Min. 20 Households)](https://smartseminars.io/#pricing) |
+| **📩 Direct Inquiry** | 📞 [Book Free Strategy Consultation](https://smartseminars.io/contact) |
 
 ---
 
@@ -31,72 +32,73 @@
 
 ---
 
-## ⚡ Core Capability Suites & Service Details
+## ⚡ Core Capability Suites & Regional Capabilities
 
 <details open>
-<summary><b>📈 1. Regional Seminar Marketing (USA & Canada)</b></summary>
+<summary><b>🇺🇸 1. USA Retirement Seminar Marketing Suite</b></summary>
 <br />
 
-* **Turnkey Campaign Management:** End-to-end management of targeted ad campaigns, high-converting landing pages, and RSVP funnels across US & Canadian markets.
-* **90% Asset Threshold Guarantee:** Pre-screened attendees meeting strict investable asset criteria ($250K to $1M+).
-* 🔗 <b><a href="https://smartseminars.io/contact">Explore Regional Campaigns →</a></b>
+* **Turnkey USA Campaigns:** Comprehensive digital campaign execution tailored specifically for US wealth management firms and wealth advisors.
+* **90% Asset Threshold Guarantee:** Rigorous pre-screening ensuring registrants hold $250K to $1M+ in investable assets.
+* 🔗 <b><a href="https://smartseminars.io/retirement-seminar-marketing-financial-advisors-usa">Explore USA Service Page →</a></b>
 
 </details>
 
 <details open>
-<summary><b>🤝 2. Appointment Conversion Coaching & Playbooks</b></summary>
+<summary><b>🇨🇦 2. Canada Financial Advisor Marketing & Lead Gen Suite</b></summary>
 <br />
 
-* **Behavioral Psychology Frameworks:** Presentation strategies designed to convert seminar attendees into high-value advisory clients.
-* **Follow-Up Sequences:** Proven multi-channel sequences to secure consultation bookings post-event.
-* 🔗 <b><a href="https://smartseminars.io/">Explore Coaching Solutions →</a></b>
+* **Targeted Canadian Campaigns:** Specialized acquisition funnels for Canadian financial planners, wealth advisors, and brokerage firms.
+* **Same-Day Turnaround:** Fast campaign setup and compliance-ready promotional copy.
+* 🔗 <b><a href="https://smartseminars.io/financial-advisor-marketing-lead-generation-canada">Explore Canada Service Page →</a></b>
 
 </details>
 
 <details open>
-<summary><b>⚙️ 3. CRM Data Sync & Lead Export</b></summary>
+<summary><b>🤝 3. Conversion Coaching & CRM Synchronization</b></summary>
 <br />
 
-* **Seamless Integration:** Native CSV/Excel exports and direct CRM synchronizations for tracking prospect pipelines.
-* 🔗 <b><a href="https://smartseminars.io/">Explore Integrations →</a></b>
+* **Behavioral Psychology Frameworks:** Presentation strategies built to maximize appointment conversion rates post-seminar.
+* **Seamless Pipeline Integration:** Direct export and native synchronization with leading advisor CRMs.
+* 🔗 <b><a href="https://smartseminars.io/">Explore Platform Capabilities →</a></b>
 
 </details>
 
 ---
 
-## 👨‍💼 Leadership & Company Credentials
+## 👨‍💼 Leadership, Entity & Operational Details
 
-* **Leadership:** Founded & operated by **Reynaldo Enriquez** (Advanced Global Research).
-* **Parent Organization:** Smart Seminars™ is a specialized service of **Advanced Global Research (AGR)**.
-* **Operational Track Record:** Over **570+ successful campaigns** executed across North America since 2018 with zero long-term lock-in contracts.
+* **Executive Leadership:** Managed by **Reynaldo Enriquez** (Advanced Global Research).
+* **Operating Entity:** Smart Seminars™ is a corporate service brand under **Advanced Global Research (AGR)**.
+* **Track Record:** **570+ successful advisor campaigns** executed across North America since 2018 with zero long-term lock-in contracts.
 
 ---
 
-## 📞 Official Contact & Office Information
+## 📞 Verified Contact Information & Office Details
 
 * **Official Website:** [smartseminars.io](https://smartseminars.io/)
 * **Direct Contact Page:** [smartseminars.io/contact](https://smartseminars.io/contact)
-* **Direct Email:** `rey@smartseminars.io` | `support@smartseminars.io`
+* **Email Contacts:** `rey@smartseminars.io` | `support@smartseminars.io`
 * **Direct Phone:** `+1 (347) 295-6438`
-* **Dallas Headquarters:** `5301 Alpha Rd #80, Dallas, TX 75240, United States`
+* **Headquarters Address:** `5301 Alpha Rd #80, Dallas, TX 75240, United States`
 
 ---
 
-## ⚡ Technical Infrastructure & Performance Stack
+## ⚡ Infrastructure & System Capabilities
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Automation-Python_3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/API-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![CRM Sync](https://img.shields.io/badge/CRM-HubSpot_%7C_Salesforce-FF9900?style=for-the-badge&logo=hubspot&logoColor=white)
+![Automation Engine](https://img.shields.io/badge/Engine-Python_3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI Backend](https://img.shields.io/badge/API-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![CRM Integrations](https://img.shields.io/badge/CRM-HubSpot_%7C_Salesforce-FF9900?style=for-the-badge&logo=hubspot&logoColor=white)
 ![Cloud Infrastructure](https://img.shields.io/badge/Infrastructure-AWS_%7C_Cloudflare-F90000?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
-### 🎯 Ready to Scale Your Practice With Pre-Screened Clients?
+### 🎯 Ready to Scale Your Advisory Practice?
 
-<a href="https://smartseminars.io/contact"><img src="https://img.shields.io/badge/📞_Contact_Us_Today-00875A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Contact Us" /></a>
-<a href="https://smartseminars.io/"><img src="https://img.shields.io/badge/🌐_Visit_Official_Site-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Site" /></a>
+<a href="https://smartseminars.io/retirement-seminar-marketing-financial-advisors-usa"><img src="https://img.shields.io/badge/🇺🇸_USA_Campaigns-00875A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="USA Page" /></a>
+<a href="https://smartseminars.io/financial-advisor-marketing-lead-generation-canada"><img src="https://img.shields.io/badge/🇨🇦_Canada_Campaigns-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Canada Page" /></a>
 
 <br /><br />
 
